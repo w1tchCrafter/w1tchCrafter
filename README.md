@@ -10,12 +10,11 @@ I'm a self taught backend developer
 ---
 
 ## Github Stats
-
 <a href="https://github.com/anuraghazra/convoychat">
-    <img height=250 src="https://github-readme-stats.vercel.app/api?username=w1tchCrafter&show_icons=true&theme=tokyonight"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api?username=w1tchCrafter&show_icons=true&theme=tokyonight"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=250 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1tchCrafter&layout=donut&langs_count=32&show_icons=true&theme=tokyonight"/>
+    <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=w1tchCrafter&layout=donut&langs_count=32&show_icons=true&theme=tokyonight"/>
 </a>
 
 ---
