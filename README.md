@@ -2,7 +2,7 @@
 
 I'm a self taught backend developer
 
--  I’m a linux linux enthusiast
+-  I’m a linux enthusiast
 - My main language is [go](https://go.dev)
 - I can also do some frontend stuff
 - Currently learning about reactjs
